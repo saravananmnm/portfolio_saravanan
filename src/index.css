@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Cabinet+Grotesk:wght@400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #050810;
+  --bg-secondary: #0a0f1e;
+  --bg-card: #0d1424;
+  --accent-cyan: #00d4ff;
+  --accent-blue: #0066ff;
+  --accent-violet: #7c3aed;
+  --text-primary: #f0f4ff;
+  --text-secondary: #8892b0;
+  --text-muted: #4a5568;
+  --border: rgba(0, 212, 255, 0.12);
+  --glow: rgba(0, 212, 255, 0.15);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Cabinet Grotesk', sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Syne', sans-serif;
+}
+
+code, pre, .mono {
+  font-family: 'DM Mono', monospace;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--accent-cyan); border-radius: 2px; }
+
+::selection { background: rgba(0, 212, 255, 0.25); color: #fff; }
