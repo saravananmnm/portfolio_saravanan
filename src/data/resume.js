@@ -9,7 +9,7 @@ export const personal = {
   github: "https://github.com/saravananmnm",
   linkedin: "https://linkedin.com/in/saravananmnm",
   summary:
-    "Senior Flutter Developer with 10+ years of IT experience, including 5+ years in enterprise-grade Flutter application development. Experienced in architecting scalable, real-time mobile solutions integrated with RESTful and event-driven back-end systems. Strong background in Agile delivery, CI/CD implementation, code quality practices, and leading cross-functional teams.",
+    "Senior Flutter Developer with 11+ years of IT experience, including 5+ years in enterprise-grade Flutter application development. Experienced in architecting scalable, real-time mobile solutions integrated with RESTful and event-driven back-end systems. Strong background in Agile delivery, CI/CD implementation, code quality practices, and leading cross-functional teams.",
   availability: "Immediate Joiner",
   languages: ["English", "Tamil"],
 };
@@ -47,7 +47,7 @@ export const experience = [
     company: "White Data Systems India Pvt Ltd",
     companyNote: "(TVS Supply Chain Solutions)",
     role: "Senior Technical Lead / Senior Software Engineer",
-    period: "May 2023 – Present",
+    period: "May 2023 – May 2026",
     location: "Coimbatore",
     type: "current",
     highlights: [

@@ -313,7 +313,7 @@ export default function Hero() {
           style={{ display: "flex", gap: "40px", flexWrap: "wrap" }}
         >
           {[
-            { label: "Years Experience", value: "10+" },
+            { label: "Years Experience", value: "11+" },
             { label: "Flutter Expertise", value: "5+ yrs" },
             { label: "Team Leadership", value: "4–5 devs" },
             { label: "Enterprise Apps", value: "3+" },

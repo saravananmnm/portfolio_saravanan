@@ -157,7 +157,7 @@ export default function About() {
             {[
               { label: "Immediate Joiner", color: "#00d4ff" },
               { label: "English & Tamil", color: "#7c3aed" },
-              { label: "10+ yrs IT", color: "#0066ff" },
+              { label: "11+ yrs IT", color: "#0066ff" },
             ].map((b) => (
               <span
                 key={b.label}
