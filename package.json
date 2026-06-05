@@ -8,9 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://parthaaaaa.github.io/firstwebapp/",
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+   
   },
   "dependencies": {
     "framer-motion": "^12.40.0",
