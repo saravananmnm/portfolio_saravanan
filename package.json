@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://saravananmnm.github.io/portfolio_saravanan/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,8 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "homepage": "https://github.com/saravananmnm/portfolio_saravanan/"   
+    "preview": "vite preview"
   },
   "dependencies": {
     "framer-motion": "^12.40.0",
